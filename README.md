@@ -1,8 +1,6 @@
 # Sever-Sent Event Demo - Node
 Simple NodeJS application to try Server-Sent Events (SSEs). Hosted on Heroku
 
-Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Get Started
 
 Install the dependencies
